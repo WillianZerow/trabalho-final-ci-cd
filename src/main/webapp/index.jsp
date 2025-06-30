@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Pipeline CI/CD funcionando!</h2>
+<h2>Escrevi agora</h2>
 </body>
 </html>
