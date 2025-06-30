@@ -16,6 +16,15 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>webapp-ci</finalName>
-  </build>
+  <finalName>webapp-ci</finalName>
+  <pluginManagement>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>3.3.2</version>
+      </plugin>
+    </plugins>
+  </pluginManagement>
+</build>
 </project>
